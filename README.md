@@ -51,3 +51,6 @@ import RNOfflineVision from 'react-native-offline-vision';
 RNOfflineVision;
 ```
   
+  
+## Thanks to [react-native-create-library](https://github.com/frostney/react-native-create-library)
+npm install -g git+https://git@github.com/frostney/react-native-create-library
